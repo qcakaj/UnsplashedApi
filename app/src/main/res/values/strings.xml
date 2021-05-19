@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IceAndFireApplication</string>
+    <string name="search">search</string>
+    <string name="content_description_search">search</string>
+    <string name="more">More</string>
+    <string name="content_description_more">more</string>
+    <string name="download">download</string>
+    <string name="full_screen">View</string>
+    <string name="permission_title">permission title</string>
+    <string name="write_permission_request">write permission requiest</string>
+    <string name="retry">Retry</string>
+    <string name="no_results">No Results</string>
+</resources>
